@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-GB"
+locale                   : "en-US"
 title                    : "Kin Chao"
 title_separator          : "-"
 name                     : &name "Kin Chao"
