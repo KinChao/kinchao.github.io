@@ -1,49 +1,26 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to Kin Chao (also known as Rain Chao; or street name R周) 's research and personal homepage
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently doing a 1-year research placement in the [Scientific Computing Department](https://www.scd.stfc.ac.uk/Pages/home.aspx) at UKRI STFC, doing a bit of MD simulations and computational cryoEM. I also have very active Computational Biochemistry research projects in [Sarah Rouse's](https://www.imperial.ac.uk/people/s.rouse/page/bio.html) lab in the Department of Life Sciences at Imperial College London (2 Years +). Previously I finished my BSc degree in Medicinal Chemistry also at Imperial College London.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research interet lies in the use of computational approaches in the field of medicinal chemistry and biochemistry. Key interested areas including: 
+1. MD simulations. "Larger" scale coarse-grained MD to study protein-lipid interaction and receptros oligomerisation behaviour/ membrane organisation. "Smaller" scale atomistic MD including e.g. ligand binding, free energy calculation. Also interested in QM/MM methods.
+1. Bioinformatics: The use of computational and systematic approach to Biology, and data-science framework including integration of multi-omics data. Particular interst in studying GPCRs signalling pathway and biased agonism.
+1. Drug Dsicovery: Interested in various computational techniques including e.g. virtural screening, Structure-Based Drug Discovery, medicinal chemistry, ML/AI techniques.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My previous 2 years + research in Rouse Lab has really only been looking at the "Larger" scale cgMD to study receptor-lipid interaction. I expect to explore other areas of interest during my Master's and PhD studies in the next couple of years.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I have enjoyed a few fruitful colloborations with experimental groups for my many research projects in the Rouse Lab so far. I have developed a keen interest in MD simulations and the structural insights they offer, and how these insights can be used to provide additional molecular understanding as well as to guide experimental design. The former case includes collaborations with [Steve Matthews](https://www.imperial.ac.uk/people/s.j.matthews) (ICL Life Sciences) to study the parasite protein TgGAC (published in [eLife](https://elifesciences.org/articles/86049)) and with [Carol Robinson](https://www.chem.ox.ac.uk/people/dame-carol-robinson) (Oxford Chemistry) to investigate the effect of the ICL3 loop on b1ar coupling and activation (submitted to PNAS). The latter case involves using cgMD simulations to identify cholesterol binding sites and binding modes in GLP-1R, allowing the informed selection of 12 residues for a mutagenesis study by our experimental collaborator [Alejandra Tomas](https://www.imperial.ac.uk/people/a.tomas-catala) (ICL Medicine) (in preparation for eLife). My work also contributed to the preliminary MD data in a successful [Wellcome Trust grant](https://www.imperial.ac.uk/news/251975/wellcome-trust-discovery-grant-advance-therapies/).
 
-**Markdown generator**
+I also have a strong interest in guiding and mentoring ambitious UG students who are interested in navigating a scientific career from Macau. I myself struggled really hard back in my Year 1 and Year 2 in my UG due to various reasons including moving to a new city with different languages, covid, and uncertainty about the future etc, and I really wished there was someone to guide me back then. Now that I am on the other side I am happy to give back and to train/ guide the next gen UG students (from Macau) who are interested in sciences/ research-based career. Please reach out if you are interested.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
