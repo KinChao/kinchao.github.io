@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Kin Chao (also known as Rain Chao; or street name R周)'s research and personal website
+Welcome to Kin Chao (also known as Rain Chao; or street name R周)'s research and personal website.
 
 I am currently doing a 1-year research placement in the [Scientific Computing Department](https://www.scd.stfc.ac.uk/Pages/home.aspx) at UKRI STFC, doing a bit of MD simulations and computational cryoEM. I also have very active Computational Biochemistry research projects in [Sarah Rouse's](https://www.imperial.ac.uk/people/s.rouse/page/bio.html) lab in the Department of Life Sciences at Imperial College London (2 Years +). Previously I finished my BSc degree in Medicinal Chemistry also at Imperial College London.
 
 
 My research interet lies in the use of computational approaches in the field of medicinal chemistry and biochemistry. Key interested areas including: 
-1. MD simulations: "Larger" scale coarse-grained MD simulations to study protein-lipid interaction and receptors oligomerisation behaviour/ membrane organisation; "Smaller" scale atomistic MD including e.g. ligand binding, free energy calculation.
+1. MD simulations: "Larger" scale coarse-grained MD simulations to study protein-lipid interaction and receptors oligomerisation behaviour/ membrane organisation; "Smaller" scale atomistic MD including e.g. ligand binding, free energy calculation, etc.
 1. Bioinformatics: The use of computational and systematic approach to Biology, and data-science framework including integration of multi-omics data. Particular interest in studying GPCRs signalling pathway and biased agonism.
 1. Drug Discovery: Interested in various computational techniques including e.g. virtual screening, structure-based drug discovery, medicinal chemistry, ML/AI techniques.
 

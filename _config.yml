@@ -214,6 +214,9 @@ collections:
   posts2:
     output: true
     permalink: /:collection/:path/
+  MUSRC:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

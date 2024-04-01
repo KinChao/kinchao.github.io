@@ -12,6 +12,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Book Clubs"
+  - title: "Book Club"
     url: /year-archive2/    
+
+  - title: "Macau-UK Science & Research Club"
+    url: /MUSRC/    
 
