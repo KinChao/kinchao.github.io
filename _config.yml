@@ -211,6 +211,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts2:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -219,6 +222,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _posts2
+  - scope:
+      path: ""
+      type: posts2
     values:
       layout: single
       author_profile: true
