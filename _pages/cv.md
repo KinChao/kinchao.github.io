@@ -39,7 +39,7 @@ Work experience
 Summer research
 ======
 * Computational Biochemistry UROP (summer 2022)
-  * Primiary supervisor: Sarah Rouse. Secondary supervisor: Ed Tate Project title: "Rational design of synthetic cardiolipin analogues" A blue-skies, collaborative project, aimed at generating preliminary data. Keywords: CG-MD, cardiolipin analogue. This project exposed me to biomolecular simulations.
+  * Primary supervisor: Sarah Rouse. Secondary supervisor: Ed Tate Project title: "Rational design of synthetic cardiolipin analogues" A blue-skies, collaborative project, aimed at generating preliminary data. Keywords: CG-MD, cardiolipin analogue. This project exposed me to biomolecular simulations.
 
 * Computational Biology UROP (summer 2021)
   * Supervised by Sarah Rouse. Project title: Towards building a mitochondrial interactome knowledge graph (KG). Keywords: Vaticle TypeDB and TypeQL coding, python, uniprot Contributed to a collaboration with the US company Vector Space Biosciences. Featured in this [news](https://www.imperial.ac.uk/news/234034/ai-life-sciences-research-gets-boost/).
