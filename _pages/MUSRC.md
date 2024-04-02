@@ -15,7 +15,6 @@ All of the currently existing Macau-UK society is focused on making friends and 
 I am currently looking for potential co-founder and member to join! Please get in touch with me if you are interested. (IG: rain_chao_ or WhatsApp: +44 7311 777131)
 -------
 
-
 Current ideas including regular meetings:
 -------
 
