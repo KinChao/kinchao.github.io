@@ -22,18 +22,10 @@ Current ideas including regular meetings:
 -------
 We will be hosting regular meetings where each participant will have an opportunity to present a literature review, a selected paper, or a research area of interest in English. Our aim is to foster a friendly environment where everyone is encouraged to delve deeper into their field of interest and to practice scientific presentations.
 
-
-Founders
+We have a line of speakers happy to present some of their works! Ranging from biomedical science to theoretical physics! - I'll be the first one presenting, stay tuned!
 -------
-
-* Kin Chao : UG at ICL 2020-2023 (Medicinal Chemistry), industrial placement at STFC 2023-2024 (Computational Biology). Research interest in computational structural biology, biomolecular simulations and computational chemistry.
-
-Current members
--------
-
-* To be added, currently around 4 ppl expressed interest
 
 Meeting schedule
 -------
 
-* To be added, looking to start regular meetings in two weeks? W/C 15th April
+* To be added, looking to start regular meetings in a few weeks? Maybe after May period as it's exam period.
