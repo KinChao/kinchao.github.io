@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-* Multi-Disciplinary Computational Biology industrial placement - UKRI STFC (Aug 2023 - present)
- * Supervisors: Jas Kalayan (MD), James Gebbie-Rayet (HPC) and Joel Greer (EM)
+* Computational Chemistry internship - AstraZeneca (July 2024 - present)
+* Multi-Disciplinary Computational Biology industrial placement - UKRI STFC (Aug 2023 - Jul 2024)
+  * Supervisors: Jas Kalayan (MD), James Gebbie-Rayet (HPC) and Joel Greer (EM)
   * Research project developing protocols for MD-based synthetic micrographs pipeline developed by STFC, Rosalind Franklin institute and TU Delft to improve protein heterogeneous reconstruction in cryoEM.
   * Bi-weekly update meeting with direct supervisors, and with project advisors Martyn Winn and Tom Burnley (CCP-EM).
   

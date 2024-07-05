@@ -21,12 +21,12 @@ repository               : "KinChao/kinchao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "icon3.jpeg"
+  avatar           : "icon7.jpeg"
   name             : "Kin Chao"
   pronouns         : # example: "she/her"  
   bio              : "A rogue Chemist turned Computational Structural Biologist; Multi-Disciplinary Compputational Biology industrial placement at UKRI STFC | Computational Biochemistry at Rouse Lab | BSc Chemistry at Imperial College London"
   location         : "UK"
-  employer         : "Imperial College London | UKRI STFC"
+  employer         : "ICL | STFC | AstraZeneca"
   uri              : # URL
   email            : "kin.chao20@imperial.ac.uk" 
 
