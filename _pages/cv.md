@@ -11,20 +11,23 @@ redirect_from:
 
 Education
 ======
+* PhD Computational Chemistry, University of Southampton, UK (2024-2028)
 * BSc Chemistry with Medicinal Chemistry and a Year in Industry, Imperial College London, UK (2020-2024)
 * International A-levels A* A* A* A A in Chemistry, Maths, Further Maths, Physics and Biology, Yuet Wah College and Chan Sui Ki Perpetual Help College, Macau SAR China (2014-2020)
 * IGCSE A* A* A* in Chemistry, Maths and Physics.
 
 Work experience
 ======
-* Computational Chemistry internship - AstraZeneca (July 2024 - present)
+* Computational Chemistry internship - AstraZeneca UK (July 2024 - Sep 2024)
+  * Based in the new HQ The Discovery Centre (DISC) in Cambridge.
+  * Computational modelling on antibody-drug-conjugate.
 * Multi-Disciplinary Computational Biology industrial placement - UKRI STFC (Aug 2023 - Jul 2024)
   * Supervisors: Jas Kalayan (MD), James Gebbie-Rayet (HPC) and Joel Greer (EM)
   * Research project developing protocols for MD-based synthetic micrographs pipeline developed by STFC, Rosalind Franklin institute and TU Delft to improve protein heterogeneous reconstruction in cryoEM.
   * Bi-weekly update meeting with direct supervisors, and with project advisors Martyn Winn and Tom Burnley (CCP-EM).
   
 
-* Computational Structural Biology (2022 - present)
+* Computational Structural Biology (2022 - 2024)
   * Supervisors: Sarah Rouse
   * Parasite GAC protein project, co-supervised by Steve Matthews and Marc Morgan (ICL Life Sciences). Protein modelling with coarse-grained MD (CG-MD); steered MD coupled to SAXS; x-ray density refinement using CCP4i2 and COOT. 
   * Mitochondrial protein TgMAF1 and TOM70 project, in collaboration with Lena Pernas (MPI Cologne). Transmembrane protein modelling and dynamics using MODELLER and CG-MD to obtain insight into parasite membrane tethering.

@@ -9,8 +9,15 @@ author_profile: false
   <div class="archive">
     <h1 class="page__title">{{ page.title }}</h1>
     {% include base_path %}
+
+    <!-- Original loop for posts (no changes) -->
     {% for post in page.posts %}
       {% include archive-single.html %}
+    {% endfor %}
+
+    <!-- New loop to include posts from 'posts2' collection -->
+    {% for post2 in page.posts2 %}
+      {% include archive-single2.html %}
     {% endfor %}
   </div>
 </div>

@@ -1,0 +1,61 @@
+{% include base_path %}
+
+{% comment %}
+  archive-single2.html
+  - Renders exactly ONE post2, with optional read-time check.
+  - No loop in this file.
+{% endcomment %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% assign teaser = post2.header.teaser | default: site.teaser %}
+    {% if teaser and teaser != "" %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+        alt="teaser">
+      </div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post2.url }}">{{ post2.title }}</a>
+    </h2>
+
+    {% comment %}
+      Reading Time Logic
+      - If post2.read_time == true, we assume user wants "less than 1 minute read".
+      - If post2.read_time is a string (e.g., "2 minute read"), we print it.
+      - If post2.read_time is nil or empty, we don't print anything.
+    {% endcomment %}
+    {% if post2.read_time == true %}
+      <p class="page__meta">
+        <i class="fa fa-clock-o" aria-hidden="true"></i>
+        less than 1 minute read
+      </p>
+    {% elsif post2.read_time %}
+      <p class="page__meta">
+        <i class="fa fa-clock-o" aria-hidden="true"></i>
+        {{ post2.read_time }}
+      </p>
+    {% endif %}
+
+    {% if post2.date %}
+      <p class="page__date">
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong>
+        <time datetime="{{ post2.date | date_to_xmlschema }}">
+          {{ post2.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+    {% endif %}
+
+    {% if post2.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post2.excerpt | markdownify }}
+      </p>
+    {% endif %}
+  </article>
+</div>

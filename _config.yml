@@ -21,14 +21,14 @@ repository               : "KinChao/kinchao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "icon7.jpeg"
+  avatar           : "icon8.jpg"
   name             : "Kin Chao"
   pronouns         : # example: "she/her"  
-  bio              : "A rogue Chemist turned Computational Structural Biologist; Multi-Disciplinary Compputational Biology industrial placement at UKRI STFC | Computational Biochemistry at Rouse Lab | BSc Chemistry at Imperial College London"
+  bio              : "Computational Chemistry PhD student (Essex group) | Multi-disciplinary studies | Molecular Sciences Research"
   location         : "UK"
-  employer         : "ICL | STFC | AstraZeneca"
+  employer         : "University of Southampton"
   uri              : # URL
-  email            : "kin.chao20@imperial.ac.uk" 
+  email            : "k.w.chao@soton.ac.uk" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
@@ -211,13 +211,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  MUBJC:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
   posts2:
     output: true
     permalink: /:collection/:path/
-  MUSRC:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -235,9 +237,9 @@ defaults:
   # _posts2
   - scope:
       path: ""
-      type: posts
+      type: posts2
     values:
-      layout: single
+      layout: single2
       author_profile: true
       read_time: true
       comments: true
