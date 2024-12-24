@@ -10,7 +10,7 @@ author_profile: true
 About
 -------
 
-The Macau-UK Biomedical Journal Club is finally up and rolling! Co-founded by myself, Ashley Wong, and Brandon Ma in November 2024, this club provides a platform for discussions and in the wide field of "biomed". We meet every Friday at 4 PM and each week one of us gives a talk about something cool or interesting from their field.
+The Macau-UK Biomedical Journal Club is finally up and rolling! Co-founded by myself, Ashley Wong, and Brandon Ma in November 2024, this club provides a platform for discussions in the wide field of "biomed". We meet every Friday at 4 PM and each week one of us gives a talk about something cool or interesting from their field.
 
 The schedule (tentative) is listed below. If you’d like to join or learn more, please feel free to contact me!
 
