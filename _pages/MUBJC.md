@@ -29,7 +29,7 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-01-31       | Tong          | BSc Biomedical Engineering     | Manchester Metropolitan University | Tissue engineering                                                                   |
 | 2025-02-07       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Computational Chemistry PhD research in drug discovery: PROTACs (+ADCs/ GPCRs)       |
 | 2025-02-14       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
-| 2025-02-21 (place holder)      | Quang Li (Guest Lecture)  | -    | Meta          | Career talk/ experience in bioinformatics/ computer science/ academia and industry      |
+| 2025-02-21 (place holder)      | Quang Le (Guest Lecture)  | -    | Meta          | Career talk/ experience in bioinformatics/ computer science/ academia and industry      |
 
 My contact: (IG: rain_chao_ ; whatsapp: +44 7311 777131 ; wechat: kwc20icl)
 
