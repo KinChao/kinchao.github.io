@@ -23,14 +23,17 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2024-12-20       | -             | -                              | -                                  | Christmas break                                                                     |
 | 2024-12-27       | -             | -                              | -                                  | Christmas break                                                                     |
 | 2025-01-03       | -             | -                              | -                                  | Christmas break                                                                     |
-| 2025-01-10       | Elena Chan    | MSci Biochemistry              | UCL                                | Biochemistry; replication stress, aging, mTOR pathway                                |
-| 2025-01-17       | Ashley Wong   | MPhil in Genomic Medicine      | University of Cambridge            | Metabolomics, ML/AI techniques in bioinformatics, knowledge graph, comp chem methods |
-| 2025-01-24       | Frank Li      | MPharm Pharmacy                | University of Manchester           | Pharmacology; Alzheimer pathology; protein and drug modelling                       |
-| 2025-01-31       | Vicky Yang    | MPH Public Health              | UCL                                | Biochemistry or public health                                                       |
-| 2025-02-07       | Tong          | BSc Biomedical Engineering     | Manchester Metropolitan University | Tissue engineering                                                                   |
-| 2025-02-14       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Computational Chemistry PhD research in drug discovery: PROTACs (+ADCs/ GPCRs)       |
-| 2025-02-21       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
-| 2025-02-28 (place holder) | Quang Le (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
+| 2025-01-10       | Elena Chan    | MSci Biochemistry              | UCL                                | Biochemistry; replication stress, aging, mTOR pathway                               |
+| 2025-01-17       | Ashley Wong   | MPhil in Genomic Medicine      | University of Cambridge            | PhD interview presentation and mock interview                                       |
+| 2025-01-24       | Frank Li      | MPharm Pharmacy                | University of Manchester           | Food thickener and drug bioavailability; intern experience; Alzheimer pathology     |
+| 2025-01-31       | -             | -                              | -                                  | Break                                                                               |
+| 2025-02-07       | -             | -                              | -                                  | Break                                                                               |
+| 2025-02-14       | Vicky Yang    | MPH Public Health              | UCL                                | Biochemistry or public health                                                      |
+| 2025-02-21       | Tong          | BSc Biomedical Engineering     | Manchester Metropolitan University | Tissue engineering                                                                  |
+| 2025-02-28       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Introduction to bio-molecular dynamics simulations and drug discovery process, computational bio/chemistry research |
+| 2025-03-07       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
+| 2025-03-14       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
+
 
 
 
