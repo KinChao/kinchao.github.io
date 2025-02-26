@@ -28,10 +28,12 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-01-24       | Frank Li      | MPharm Pharmacy                | University of Manchester           | Food thickener and drug bioavailability; intern experience; Alzheimer pathology     |
 | 2025-01-31       | -             | -                              | -                                  | Break                                                                               |
 | 2025-02-07       | -             | -                              | -                                  | Break                                                                               |
-| 2025-02-14       | Vicky Yang    | MPH Public Health              | UCL                                | Biochemistry or public health                                                      |
-| 2025-02-21       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Introduction to bio-molecular dynamics simulations and drug discovery process, computational bio/chemistry research |
-| 2025-02-28       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
-| 2025-03-07       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
+| 2025-02-14       | -             | -                              | -                                  | Break                                                                               |
+| 2025-02-21       | -             | -                              | -                                  | Break                                                                               |
+| 2025-02-28       | -             | -                              | -                                  | Break                                                                               |
+| 2025-03-07       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Introduction to bio-molecular dynamics simulations and drug discovery process, computational bio/chemistry research |
+| 2025-03-14       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
+| 2025-03-21       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
 
 
 My contact: (IG: rain_chao_ ; whatsapp: +44 7311 777131 ; wechat: kwc20icl)
