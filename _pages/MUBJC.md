@@ -38,7 +38,7 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-04-04       | TBA             | -                              | -                                  |                                                                                |
 | 2025-04-11       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
 | 2025-04-18       | -             | -                              | -                                  | Easter Break                                                                               |
-| 2025-04-25       | TBA             | -                              | -                                  |                                                                                |
+| 2025-04-25       | TBA             | -                               | -                                  |                                                                                |
 | 2025-05-02       | TBA             | -                              | -                                  |                                                                                |
 | 2025-05-09       | TBA             | -                              | -                                  |                                                                                |
 | 2025-05-16       | TBA             | -                              | -                                  |                                                                                |
