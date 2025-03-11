@@ -33,7 +33,16 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-02-28       | -             | -                              | -                                  | Break                                                                               |
 | 2025-03-07       | Kin Chao      | PhD Computational Chemistry    | University of Southampton          | Introduction to bio-molecular dynamics simulations and drug discovery process, computational bio/chemistry research |
 | 2025-03-14       | Brandon Ma    | PhD Biochemical Engineering    | UCL                                | Biochemical Engineering PhD research: addressing mAB aggregation / viral filtration system |
-| 2025-03-21       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
+| 2025-02-21       | -             | -                              | -                                  |                                                                                |
+| 2025-03-28       | Tong          | BSc Bioengneering              | Manchester Metropolitan University |                                                                                |
+| 2025-04-04       | TBA             | -                              | -                                  |                                                                                |
+| 2025-04-11       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
+| 2025-04-18       | -             | -                              | -                                  | Easter Break                                                                               |
+| 2025-04-25       | TBA             | -                              | -                                  |                                                                                |
+| 2025-05-02       | TBA             | -                              | -                                  |                                                                                |
+| 2025-05-09       | TBA             | -                              | -                                  |                                                                                |
+| 2025-05-16       | TBA             | -                              | -                                  |                                                                                |
+| 2025-05-23       | TBA             | -                              | -                                  |                                                                                |
 
 
 My contact: (IG: rain_chao_ ; whatsapp: +44 7311 777131 ; wechat: kwc20icl)
