@@ -15,6 +15,8 @@ The Macau-UK Biomedical Journal Club is finally up and rolling! Co-founded by my
 The schedule (tentative) is listed below. If you’d like to join or learn more, please feel free to contact me!
 
 
+
+
 | Date (4–5:30 PM) | Presenter     | Program                        | Affiliation                        | Topic                                                                               |
 |------------------|---------------|--------------------------------|------------------------------------|-------------------------------------------------------------------------------------|
 | 2024-11-21       | Ashley Wong   | MPhil in Genomic Medicine      | University of Cambridge            | Stem cell therapy paper discussion                                                 |
@@ -44,7 +46,19 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-05-16       | -             | -                              | -                                  |  Break                                                                               |
 | 2025-05-23       | Maggie (Guest Talk)     | PDRA Engineering/ E-Textiles              |   University of Southampton        |    Overview of E-textile in healthcare application/ wearable electric textile             |
 
+Invited Career talk by Quang Le : [Recording link](https://youtu.be/c4gV8Uka3qo)
+-------
+
+We’re very excited to welcome Dr. Quang Le for a special career talk, where he’ll share insights from his journey across bioinformatics, computer science, academia, and industry.
+
+Quang is a highly experienced bioinformatician and software engineer, currently working as a Senior Software Engineer at Meta. He spent around 10 years in academia as a postdoctoral researcher and research fellow, with positions inclduing at the University of Portsmouth, University of Oxford and Wellcome Sanger Institute. For the past 10 years, he has worked in industry, holding roles at major organisations including Google and JPMorgan before moving to Meta.
+
+In this talk, Quang will share personal stories that reflect on his career path, key decisions, and what he might have done differently in hindsight. He will also discuss the challenges, lessons, and insights he has gained from his time in both academia and industry.
+
+You can find out more about Quang's work from his [LinkedIn](https://www.linkedin.com/in/quangsile/?originalSubdomain=uk) and [google scholar profile](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en).
+
+
 
 My contact: (IG: rain_chao_ ; whatsapp: +44 7311 777131 ; wechat: kwc20icl)
-
+-------
 
