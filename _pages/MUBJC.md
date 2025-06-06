@@ -44,7 +44,13 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-05-02       | [Quang Le](https://scholar.google.co.uk/citations?user=Q7Q-7f8AAAAJ&hl=en) (Guest Lecture)  | -    | Meta                              | Career talk/ experience in bioinformatics/ computer science/ academia and industry  |
 | 2025-05-09        | -             | -                              | -                                  |  Break                                                                               |
 | 2025-05-16       | -             | -                              | -                                  |  Break                                                                               |
-| 2025-05-23       | Maggie (Guest Talk)     | PDRA Engineering/ E-Textiles              |   University of Southampton        |    Overview of E-textile in healthcare application/ wearable electric textile             |
+| 2025-05-23       | -             | -                              | -                                  |  Break                                                                               |
+| 2025-05-30       | -             | -                              | -                                  |  Break                                                                               |
+| 2025-06-06       | -             | -                              | -                                  |  Break                                                                               |
+| 2025-06-13       | Maggie (Guest Talk)     | PDRA Engineering/ E-Textiles              |   University of Southampton        |    Overview of E-textile technologies for healthcare applications + insights from her PhD journey            |
+| 2025-06-20       |               |                                |                                     | TBA                                                                                 |
+| 2025-06-27       |               |                                |                                     | TBA                                                                                 |
+| 2025-07-04       |               |                                |                                     | TBA                                                                                 |
 
 Invited Career talk by Quang Le : [Recording link](https://youtu.be/c4gV8Uka3qo)
 -------
