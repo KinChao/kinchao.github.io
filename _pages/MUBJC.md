@@ -47,10 +47,24 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 | 2025-05-23       | -             | -                              | -                                  |  Break                                                                               |
 | 2025-05-30       | -             | -                              | -                                  |  Break                                                                               |
 | 2025-06-06       | -             | -                              | -                                  |  Break                                                                               |
-| 2025-06-13       | Maggie (Guest Talk)     | PDRA Engineering/ E-Textiles              |   University of Southampton        |    Overview of E-textile technologies for healthcare applications + insights from her PhD journey            |
-| 2025-06-20       |               |                                |                                     | TBA                                                                                 |
-| 2025-06-27       |               |                                |                                     | TBA                                                                                 |
-| 2025-07-04       |               |                                |                                     | TBA                                                                                 |
+| 2025-06-13       | [Maggie](https://scholar.google.com/citations?user=iuS9wG8AAAAJ&hl=en) (Guest Talk)     | PDRA Engineering/ E-Textiles              |   University of Southampton        |    Overview of E-textile technologies for healthcare applications + insights from her PhD journey            |
+| 2025-06-20       |               |                                |                                     | Break                                                                                 |
+| 2025-06-27       |               |                                |                                     | Break                                                                                 |
+| 2025-07-04 (Tentative)       |  [Elena](https://www.linkedin.com/in/ieng-fong-sou-21a304129/?originalSubdomain=uk) (Guest Talk) | PDRA Cancer Research  | ETH Zurich | PDRA/ PhD research in Cancer Science (epigenetics and breast cancer) + insights from her PDRA/ PhD journey     |
+| 2025-07-11       |               |                                |                                     | TBA                                                                                   |
+| 2025-07-18       |               |                                |                                     | TBA                                                                                   |
+| 2025-07-25       |               |                                |                                     | TBA                                                                                   |
+| 2025-08-01       |               |                                |                                     | TBA                                                                                   |
+
+
+
+
+
+
+
+
+
+
 
 Invited Career talk by Quang Le : [Recording link](https://youtu.be/c4gV8Uka3qo)
 -------
