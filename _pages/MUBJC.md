@@ -74,7 +74,7 @@ The schedule (tentative) is listed below. If you’d like to join or learn more,
 |--------|--------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | 1      | 2025-05-02   | [Dr. Quang Le](https://www.linkedin.com/in/quangsile/?originalSubdomain=uk) | Meta / Formerly Oxford, Sanger Institute, Google, JP Morgan         | Career Talk in bioinformatics and software engineering: academia vs industry                                                    | [Watch here](https://youtu.be/c4gV8Uka3qo)     |
 | 2      | 2025-06-13   | [Dr. Maggie Liu](https://www.linkedin.com/in/liu-meijing-25170b181/?originalSubdomain=uk)                                                     | University of Southampton       |  E-textile technologies for healthcare + PhD journey                                                | [Watch here](https://youtu.be/d6j7Dyx-sxI)                                          |
-| 3      | 2025-07-04   | [Dr. Elena Sou](https://www.linkedin.com/in/ieng-fong-sou-21a304129/?originalSubdomain=uk) | ETH Zurich / Formerly University of Liverpool, A*STAR Singapore     | Epigenetics and breast cancer research + reflections on doing a PhD across UK/Singapore + life in Zurich   | **Recording:** [Watch here](https://youtu.be/c8B1mzzj5tU)                                          |
+| 3      | 2025-07-04   | [Dr. Elena Sou](https://www.linkedin.com/in/ieng-fong-sou-21a304129/?originalSubdomain=uk) | ETH Zurich / Formerly University of Liverpool, A*STAR Singapore     | Epigenetics and breast cancer research + reflections on doing a PhD across UK/Singapore + life in Zurich   | [Watch here](https://youtu.be/c8B1mzzj5tU)                                          |
 
 ---
 
@@ -112,4 +112,6 @@ In this talk, Elena shared her research on breast cancer and epigenetic regulati
 
 **Recording:** [Watch here](https://youtu.be/c8B1mzzj5tU)
 
+
+---
 
